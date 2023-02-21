@@ -13,8 +13,9 @@
 }
 
 #cover{
-    max-width: 350px;
-    max-height: 5s00px;
+    width: 286px;
+    height: 430px;
+    padding-right: 20px;
 }
 
 .card-deck{
@@ -23,8 +24,4 @@
     justify-content: center;
     padding-left: 20px;
     padding-right: 20px;
-}
-
-.card{
-
 }
