@@ -18,10 +18,11 @@
 }
 
 .card-deck{
-    display: inline-flex
+    display: inline;
+    display: flex;
+    justify-content: space-between;
 }
 
 .card{
-display: flex;
-justify-content: space-between;
+
 }
