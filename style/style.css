@@ -13,10 +13,10 @@
 }
 
 #cover{
-    width: 530px;
-    height: 820px;
+    width: 490px;
+    height: 790px;
     padding-right: 20px;
-    padding-left: 20px;
+    padding-left: 10px;
 }
 
 .card-deck{
