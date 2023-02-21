@@ -19,6 +19,9 @@
 
 .card-deck{
     display: inline-flex
-    
+}
 
+.card{
+display: flex;
+justify-content: space-between;
 }
