@@ -13,10 +13,12 @@
 }
 
 #cover{
-    max-width: 200px;
-    max-height: 400px;
+    max-width: 500px;
+    max-height: 800px;
 }
 
 .card-deck{
     display: inline-flex
+    
+
 }
