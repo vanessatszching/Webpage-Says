@@ -14,13 +14,15 @@
 
 #cover{
     max-width: 350px;
-    max-height: 550px;
+    max-height: 600px;
 }
 
 .card-deck{
     display: inline;
     display: flex;
     justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .card{
