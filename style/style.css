@@ -1,10 +1,16 @@
+//* 
+font-family: 'Oleo Script Swash Caps', cursive;
+font-family: 'Playfair Display', serif;
+*//
+
 .navbar {
     background-color: white;
     border : 1px solid black;
 }
 
 .navbar-brand{
-    color:#fba362
+    color:#fba362;
+    font-family: 'Playfair Display', serif;
     
 }
 
