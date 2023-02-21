@@ -13,8 +13,8 @@
 }
 
 #cover{
-    width: 286px;
-    height: 430px;
+    width: 562px;
+    height: 860px;
     padding-right: 20px;
     padding-left: 20px;
 }
@@ -25,5 +25,5 @@
     justify-content: center;
     padding-left: 20px;
     padding-right: 20px;
-    border-color: transparent;
+   
 }
