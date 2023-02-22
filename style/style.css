@@ -98,9 +98,14 @@
     display: flex;
 }
 
+.vl{
+    border-left:3px solid dimgray;
+    height: 300 px;
+}
+
 #displayphoto{
     max-width: 200px;
-    max-height: 500px;
+    max-height: 375px;
 }
 
 #thirdLayerRight{
