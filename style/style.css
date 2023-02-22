@@ -43,8 +43,6 @@
     display: flex;
     justify-content: space-evenly;
     max-width: 1440px;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 #secLayer{
