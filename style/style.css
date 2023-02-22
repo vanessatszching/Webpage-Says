@@ -72,6 +72,11 @@
     
 }
 
+#secLayerMiddle{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 #rationale:hover{
     color: #82b9d1;
 }
