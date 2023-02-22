@@ -114,14 +114,15 @@
 }
 
 #displayphoto{
-    max-width: 200px;
-    max-height: 345px;
-    justify-content: space-around;
+    max-width: 250px;
+    max-height: 330px;
+   
 }
 
 #thirdLayerRight{
     max-width: 300px;
     display: flex;
+    justify-content: space-around;
     margin-left: 20px;
     margin-right: 20px;
 }
