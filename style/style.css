@@ -108,6 +108,7 @@
     padding-top: 20px;
     padding-bottom: 50px;
 }
+
 #card-deck2{
     padding-top: 80px;
     padding-bottom: 80px;
@@ -121,6 +122,16 @@
     font-size: 70px;
     padding-top: 110px;
     padding-bottom: 30px
+
+}
+
+#more{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: var(--brandColor);
 
 }
 .vl{
