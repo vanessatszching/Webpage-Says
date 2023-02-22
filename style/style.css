@@ -48,6 +48,10 @@
 
 }
 
+#secLayer{
+    max-width: 500px;
+}
+
 #secLayerLeft{
     font-family: 'Lora', serif;
     line-height: 1.6;
@@ -78,7 +82,7 @@
 
 #secLayerH2{
     color: var(--brandColor);
-    font-size: 50px;
+    font-size: 54px;  
 
 
 }
