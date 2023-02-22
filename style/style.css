@@ -104,14 +104,13 @@
     color: dimgray;
     font-family: 'Playfair Display', serif;
     font-size: 62px;
-    padding-top: auto;
-    padding-bottom: auto;
-    justify-items: center;
+    padding-top: 70px;
+    padding-bottom: 30px
 
 }
 .vl{
-    border-left:3px solid dimgray;
-    height: 175px;
+    border-left:2px solid dimgray;
+    height: 200px;
 }
 
 #displayphoto{
@@ -122,6 +121,7 @@
 #thirdLayerRight{
     max-width: 300px;
     display: flex;
+    justify-content: space-evenly;
     margin-left: 20px;
     margin-right: 20px;
 }
