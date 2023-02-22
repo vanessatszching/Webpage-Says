@@ -87,8 +87,11 @@
 
 #secLayerH2{
     color: var(--brandColor);
-    font-size: 54px;  
+    font-size: 62px;  
+}
 
-
+#content{
+    font-size: 26px;
+    line-break: 1.4;
 }
 
