@@ -52,7 +52,7 @@
     line-height: 1.6;
     padding-top:30px;
     padding-bottom:30px;
-    padding-left: 30px;
+    padding-left: 50px;
     color: dimgray;
     font-size: 24px;
 }
@@ -61,14 +61,15 @@
     font-family: 'Playfair Display', serif;
     padding-top:70px;
     padding-bottom:10px;
-    padding-right: 30px;
+    padding-right: 50px;
     text-align: right;
 
 }
 
 #secLayerH2{
     color: var(--brandColor);
-    font-size: 40px;
+    font-size: 50px;
+
 
 }
 
