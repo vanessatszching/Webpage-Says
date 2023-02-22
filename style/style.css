@@ -99,5 +99,6 @@
 }
 
 #displayphoto{
-    size: 50%;
+    max-width: 200px;
+    max-height: 500px;
 }
