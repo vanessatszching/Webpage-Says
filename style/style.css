@@ -36,8 +36,7 @@
     border-style: none;
 }
 
-#secLayer{
-    display: inline;
+.container3{
     display: flex;
     justify-content: center;
 
