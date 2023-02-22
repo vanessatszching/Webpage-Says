@@ -59,9 +59,11 @@
 }
 
 #rationale{
+    display: flex;
+    align-items: right;
     font-family: sans-serif;
     font-size: 16px;
-    text-align: right;
+    
 }
 
 #secLayerRight{
