@@ -68,9 +68,13 @@
     align-items: right;
     font-family: sans-serif;
     font-size: 16px;
+    color: var(--brandColor);
     
 }
 
+.btn:hover{
+    color: 
+    
 #secLayerRight{
     font-family: 'Playfair Display', serif;
     padding-top:70px;
