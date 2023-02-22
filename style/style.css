@@ -96,6 +96,7 @@
 
 #card-deck2{
     padding-top: 50px;
+    padding-bottom: 50px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -111,6 +112,9 @@
 .vl{
     border-left:2px solid dimgray;
     height: 200px;
+    padding-top: 80px;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 #displayphoto{
