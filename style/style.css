@@ -100,12 +100,12 @@
 
 .vl{
     border-left:3px solid dimgray;
-    height: 300 px;
+    height: 175px;
 }
 
 #displayphoto{
     max-width: 200px;
-    max-height: 375px;
+    max-height: 345px;
 }
 
 #thirdLayerRight{
