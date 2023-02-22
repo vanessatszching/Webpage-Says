@@ -95,7 +95,8 @@
 
 
 #card-deck2{
-    display: inline-flexbox;
+    display: flex;
+    display: inline;
 }
 
 #displayphoto{
