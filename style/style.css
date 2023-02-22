@@ -116,12 +116,12 @@
 #displayphoto{
     max-width: 200px;
     max-height: 345px;
+    justify-content: space-around;
 }
 
 #thirdLayerRight{
     max-width: 300px;
     display: flex;
-    justify-content: space-evenly;
     margin-left: 20px;
     margin-right: 20px;
 }
