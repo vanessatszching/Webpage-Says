@@ -96,6 +96,7 @@
 
 #card-deck2{
     display: flex;
+    justify-content: space-between;
 }
 
 .vl{
@@ -110,4 +111,5 @@
 
 #thirdLayerRight{
     display: flex;
+    justify-content: space-between;
 }
