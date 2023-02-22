@@ -47,6 +47,7 @@
 #secLayerLeft{
     font-family: 'Lora', serif;
     line-height: 1.6;
-    padding-left: 30px;
+    padding-left: 100px;
     color: dimgray;
+    font-size: 24px;
 }
