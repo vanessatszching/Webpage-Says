@@ -23,7 +23,9 @@
     padding-bottom: 20px;
 }
 
-.card-deck{
+.card-deck,
+.container3
+{
     display: inline;
     display: flex;
     justify-content: center;
