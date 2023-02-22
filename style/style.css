@@ -104,6 +104,10 @@
 }
 
 
+#container4{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
 #card-deck2{
     padding-top: 80px;
     padding-bottom: 80px;
@@ -115,7 +119,7 @@
     color: dimgray;
     font-family: 'Playfair Display', serif;
     font-size: 70px;
-    padding-top: 90px;
+    padding-top: 110px;
     padding-bottom: 30px
 
 }
