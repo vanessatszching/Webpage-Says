@@ -40,12 +40,13 @@
     display: inline;
     display: flex;
     justify-content: center;
-    padding-left: 20px;
-    padding-right: 20px;
+
 
 }
 
 #secLayerLeft{
     font-family: 'Lora', serif;
     line-height: 1.6;
+    padding-left: 30px;
+    color: dimgray;
 }
