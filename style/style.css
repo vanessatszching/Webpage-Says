@@ -60,6 +60,7 @@
 
 #rationale{
     display: flex;
+    justify-content: right;
     align-items: right;
     font-family: sans-serif;
     font-size: 16px;
