@@ -99,6 +99,14 @@
     justify-content: space-evenly;
 }
 
+#thirdLayerLeft{
+    color: dimgray;
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    padding-top: auto;
+    padding-bottom: auto;
+
+}
 .vl{
     border-left:3px solid dimgray;
     height: 175px;
@@ -115,3 +123,4 @@
     margin-left: 20px;
     margin-right: 20px;
 }
+
