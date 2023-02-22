@@ -45,9 +45,6 @@
     max-width: 1440px;
 }
 
-#secLayer{
-    max-width: 500px;
-}
 
 #secLayerLeft{
     font-family: 'Lora', serif;
@@ -56,6 +53,7 @@
     padding-bottom:5px;
     color: dimgray;
     font-size: 24px;
+    text-align: left;
 }
 
 #rationale{
@@ -76,7 +74,6 @@
     font-family: 'Playfair Display', serif;
     padding-top:70px;
     padding-bottom:10px;
-    padding-right: 50px;
     text-align: right;
 
 }
