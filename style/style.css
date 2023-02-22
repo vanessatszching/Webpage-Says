@@ -110,5 +110,6 @@
 }
 
 #thirdLayerRight{
+    max-width: 300px;
     display: flex;
 }
