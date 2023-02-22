@@ -97,3 +97,7 @@
 #card-deck2{
     display: inline-flexbox;
 }
+
+#displayphoto{
+    size: 50%;
+}
