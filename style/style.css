@@ -23,9 +23,7 @@
     padding-bottom: 20px;
 }
 
-.card-deck,
-.container3
-{
+.card-deck{
     display: inline;
     display: flex;
     justify-content: center;
@@ -38,6 +36,14 @@
     border-style: none;
 }
 
+#secLayer{
+    display: inline;
+    display: flex;
+    justify-content: center;
+
+}
+
 #secLayerLeft{
     font-family: 'Lora', serif;
+    line-height: 1.2%;
 }
