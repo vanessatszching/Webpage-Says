@@ -96,7 +96,7 @@
 
 #card-deck2{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .vl{
