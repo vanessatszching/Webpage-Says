@@ -216,6 +216,11 @@
         padding-left: 1px;
         padding-right:1px;
     }
+
+    #displayphoto{
+        max-width: 190px;
+        max-height: 300px;
+    }
 }
 
 @media screen and (max-width: 767px) {
