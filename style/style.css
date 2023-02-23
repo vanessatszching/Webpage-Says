@@ -176,8 +176,12 @@
         font-size: 15px;
     }
 
-    #secLayerRight{
-        font-size: 50%;
+    #secLayerH2t{
+        font-size: 30px;
+    }
+
+    #content{
+        font-size: 13px;
     }
   }
   
