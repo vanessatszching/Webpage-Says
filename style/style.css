@@ -189,7 +189,7 @@
 
 @media screen and (max-width:985px){
     #secLayerLeft{
-        font-size: 20px;
+        font-size: 17px;
         padding-right: 1px;
         max-width: 400px;
     }
@@ -197,15 +197,20 @@
         display: none;
     }
     #secLayerH2{
-        font-size: 45px;
+        font-size: 35px;
     }
     #content{
-        font-size: 20px;
+        font-size: 16px;
     }
     
 }
 
 @media screen and (max-width: 750px) {
+
+    #secLayer{
+        max-width: 400px;
+    }
+
     #secLayerLeft{
         font-size: 15px;
         padding-right: 1px;
