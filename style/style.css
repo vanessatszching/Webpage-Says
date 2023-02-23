@@ -175,22 +175,37 @@
     #secLayerLeft{
         font-size: 20px;
     }
-
     #secLayerMiddle{
         display: none;
     }
-
     #secLayerH2{
         font-size: 45px;
     }
-
     #content{
         font-size: 20px;
     }
     
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width:985px){
+    #secLayerLeft{
+        font-size: 20px;
+        padding-right: 1px;
+        max-width: 400px;
+    }
+    #secLayerMiddle{
+        display: none;
+    }
+    #secLayerH2{
+        font-size: 45px;
+    }
+    #content{
+        font-size: 20px;
+    }
+    
+}
+
+@media screen and (max-width: 750px) {
     #secLayerLeft{
         font-size: 15px;
         padding-right: 1px;
