@@ -176,6 +176,10 @@
         font-size: 15px;
     }
 
+    #secLayerMiddle{
+        display: none;
+    }
+
     #secLayerH2{
         font-size: 30px;
     }
