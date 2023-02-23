@@ -191,12 +191,14 @@
     display: flex;
 }
 
+#container7RightUp{
+    margin-top: 70px;
+ 
+
+}
+
 #container7RightDown{
-    position: absolute;
-    right: 20px;
-    bottom: 20px;
-
-
+    padding-top: 20px;
 }
 
 
