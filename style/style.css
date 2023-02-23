@@ -204,10 +204,12 @@
 #whySecContent{
     font-family: 'Lora', serif;
     color: dimgray;
-    font-size: 16px;
+    font-size: 20px;
     text-align: right;
     padding-top: 40px;
     padding-bottom: 20px;
+    padding-right: 30px;
+    line-break: 1.4;
 
 }
 
