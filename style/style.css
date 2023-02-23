@@ -175,5 +175,9 @@
     #secLayerLeft{
         font-size: 15px;
     }
+
+    #secLayerRight{
+        font-size: 50%;
+    }
   }
   
