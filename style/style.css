@@ -246,5 +246,9 @@
     #content{
         font-size: 13px;
     }
+
+    .vl{
+        display: none;
+    }
   }
   
