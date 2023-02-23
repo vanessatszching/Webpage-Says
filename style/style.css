@@ -157,7 +157,8 @@
    
 }
 
-#thirdLayerRight{
+#thirdLayerRight,
+#container7Left{
     max-width: 300px;
     display: flex;
     margin-left: 30px;
