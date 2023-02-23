@@ -171,9 +171,21 @@
     color: grey;
 }
 
-@media screen and (max-width:900px){
+@media screen and (max-width:800px){
+    #secLayerLeft{
+        font-size: 20px;
+    }
+
     #secLayerMiddle{
         display: none;
+    }
+
+    #secLayerH2{
+        font-size: 45px;
+    }
+
+    #content{
+        font-size: 20px;
     }
     
 }
