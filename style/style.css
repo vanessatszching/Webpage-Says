@@ -172,6 +172,9 @@
     color: grey;
 }
 
+#container7{
+    display: flex;
+}
 
 #whyTitle{
     font-family: var(--brandFontFamily);
