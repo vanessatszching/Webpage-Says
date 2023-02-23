@@ -211,6 +211,11 @@
         padding-left: 10px;
         padding-right: 10px;
     }
+
+    #thirdLayerRight{
+        padding-left: 1px;
+        padding-right:1px;
+    }
 }
 
 @media screen and (max-width: 767px) {
