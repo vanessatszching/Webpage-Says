@@ -202,10 +202,12 @@
 }
 
 #whySecContent{
-    font-family: var(--brandFontFamily);
+    font-family: 'Lora', serif;
     color: dimgray;
     font-size: 16px;
     text-align: right;
+    padding-top: 40px;
+    padding-bottom: 20px;
 
 }
 
