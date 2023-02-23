@@ -54,7 +54,8 @@
     margin-right: 10px;
 }
 
-#secLayerLeft{
+#secLayerLeft,
+#whyContent{
     font-family: 'Lora', serif;
     line-height: 1.6;
     padding-top:30px;
