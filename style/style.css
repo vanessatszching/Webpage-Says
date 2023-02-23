@@ -252,3 +252,37 @@
     }
   }
   
+  @media screen and (max-width: 570px) {
+
+    #secLayer{
+        max-width: 303px;
+    }
+
+    #secLayerLeft{
+        font-size: 12px;
+        padding-right: 1px;
+        max-width: 303px;
+    }
+
+    #secLayerMiddle{
+        display: none;
+    }
+
+    #secLayerH2{
+        font-size: 20px;
+    }
+
+    #content{
+        font-size: 9px;
+    }
+
+    .vl{
+        display: none;
+    }
+
+    #displayphoto{
+        max-width: 170px;
+        max-height: 250px;
+    }
+  }
+  
