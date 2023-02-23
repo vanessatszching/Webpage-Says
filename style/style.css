@@ -286,3 +286,10 @@
     }
   }
   
+  @media screen and (max-width: 485px) {
+    #card-deck2{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+  }
