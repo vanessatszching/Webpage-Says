@@ -171,7 +171,7 @@
     color: grey;
 }
 
-@media screen and (max-width:800px){
+@media screen and (max-width:900px){
     #secLayerLeft{
         font-size: 20px;
     }
@@ -193,6 +193,8 @@
 @media screen and (max-width: 600px) {
     #secLayerLeft{
         font-size: 15px;
+        padding-right: 1px;
+        max-width: 400px;
     }
 
     #secLayerMiddle{
