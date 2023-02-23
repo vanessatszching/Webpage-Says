@@ -172,10 +172,12 @@
     color: grey;
 }
 
+
 #whyTitle{
     font-family: var(--brandFontFamily);
     color: dimgray;
     size: 60px;
+    padding-left: 20px;
     padding-top: 30px;
     padding-bottom: 20px;
 
