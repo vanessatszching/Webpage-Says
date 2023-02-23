@@ -302,4 +302,8 @@
         font-size: 15px;
     }
 
+    #secLayer{
+        max-width: 210px;
+    }
+
   }
