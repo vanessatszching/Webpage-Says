@@ -309,6 +309,7 @@
     font-family: 'Lora', serif;
     font-size: 24px;
     color: var(--brandGrey);
+    word-break: break-word;
 
 }
 
