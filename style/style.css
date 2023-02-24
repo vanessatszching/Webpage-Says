@@ -230,7 +230,10 @@
     margin-top: 50px;
     padding-left: 20px;
     padding-right: 20px;
-    flex-grow: ;
+}
+
+#container9Right{
+    justify-content: flex-end;
 }
 
 @media screen and (max-width:1400px){
