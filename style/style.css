@@ -258,6 +258,7 @@
     padding-left: 20px;
     padding-top: 50px;
     padding-bottom: 40px;
+    text-align: center;
 
 }
 
@@ -269,6 +270,8 @@
 
 #horiLine{
     border: 1px solid;
+    width: 400;
+    align-items: left;
     color: var(--brandColor);
 }
 
