@@ -249,6 +249,7 @@
 
 #container10Left{
     max-width: 350px;
+    margin-left: 100px;
 }
 
 #sharingTitle{
@@ -267,6 +268,7 @@
     padding-top: 60px;
     padding-bottom: 40px;
     max-width: 400px;
+    
 }
 
 
