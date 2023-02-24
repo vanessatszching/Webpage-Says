@@ -447,9 +447,6 @@
         max-width: 100px;
     }
 
-    
-
-
 
   }
 
@@ -467,7 +464,6 @@
     #thirdLayerLeft{
         font-size: 30px;
         padding-top: 30px;
-
     }
 
     #secLayerH2{
@@ -477,5 +473,17 @@
     #secLayer{
         max-width: 210px;
     }
+    
+    #whyTitle{
+        padding: 5px 10px 5px 10px ;
+    }
 
+    #whySecContent{
+        padding-left: 10px;
+        font-size: 10px;
+    }
+
+    #container9Right{
+        margin-right: 10px;
+    }
   }
