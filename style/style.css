@@ -188,8 +188,7 @@
 
 }
 
-#container7Left,
-#container9
+#container7Left
 {
     display: flex;
 }
@@ -218,6 +217,11 @@
 
 }
 
+#container9{
+    display: flex;
+    justify-content: space-around;
+}
+
 #contanier9Left{
     max-width: 400px;
     padding-right: 40px;
@@ -233,7 +237,7 @@
 }
 
 #container9Right{
-    justify-content: flex-end;
+    display: flex;
 }
 
 @media screen and (max-width:1400px){
