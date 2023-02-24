@@ -360,7 +360,7 @@
     }
 
     #whyTitle{
-        size: 35px;
+        size: 30px;
         padding-top: 20px;
         padding-bottom: 20px;
     }
@@ -393,12 +393,10 @@
         padding-right: 10px;
 
     }
-        
-
 
   }
   
-  @media screen and (max-width: 570px) {
+  @media screen and (max-width: 575px) {
 
     #secLayer{
         max-width: 303px;
@@ -430,6 +428,24 @@
         max-width: 170px;
         max-height: 250px;
     }
+
+    #container7{
+        justify-content: center;
+    }
+
+    #container8{
+        margin-right:60px ;
+    }
+
+    #whySecContent{
+        font-size: 9px;
+    }
+
+    #container9Right{
+        max-width: 300px;
+    }
+
+
 
   }
 
