@@ -288,13 +288,14 @@
 #containerBig{
     display: flex;
     flex-direction: column;
+    margin: 10px 60px;
 }
 
 #container11,
 #container12,
 #container13 {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 #articlePic1,
@@ -305,11 +306,10 @@
 }
 
 #article{
-    padding-top: 50px;
+    padding-top: 90px;
     font-family: 'Lora', serif;
     font-size: 24px;
     color: var(--brandGrey);
-    word-break: break-word;
 
 }
 
