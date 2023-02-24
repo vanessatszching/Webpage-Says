@@ -219,6 +219,7 @@
 }
 
 #contanier9Left{
+    max-width: 400px;
     padding-right: 40px;
     justify-content: flex-start;
 }
