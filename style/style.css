@@ -313,6 +313,18 @@
 
 }
 
+#container11Left,
+#container12Left,
+#container13Left{
+    padding-right: 40px;
+}
+
+#container11Right,
+#container12Right,
+#container13Right{
+    padding-left: 40px;
+}
+
 @media screen and (max-width:1400px){
     #secLayerMiddle{
         margin-left: 20px;
