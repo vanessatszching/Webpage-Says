@@ -178,7 +178,8 @@
     display: flex;
 }
 
-#whyTitle{
+#whyTitle,
+#sharingTitle{
     font-family: var(--brandFontFamily);
     color: dimgray;
     size: 60px;
@@ -246,6 +247,8 @@
 #container10{
     display: flex;
 }
+
+
 
 @media screen and (max-width:1400px){
     #secLayerMiddle{
