@@ -178,8 +178,7 @@
     display: flex;
 }
 
-#whyTitle,
-#sharingTitle{
+#whyTitle{
     font-family: var(--brandFontFamily);
     color: dimgray;
     size: 60px;
@@ -248,6 +247,14 @@
     display: flex;
 }
 
+#sharingTitle{
+    font-family: var(--brandFontFamily);
+    color: dimgray;
+    size: 60px;
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
 
 
 @media screen and (max-width:1400px){
