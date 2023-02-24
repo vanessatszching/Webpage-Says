@@ -218,6 +218,10 @@
 
 }
 
+#contanier9Left{
+    padding-left: 40px;
+}
+
 #container9Middle{
     border-left:2px solid var(--brandGrey);
     height: 200px;
