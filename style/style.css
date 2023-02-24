@@ -381,6 +381,8 @@
     #container9{
         margin-left: 10px;
         margin-right: 2px;
+        padding-right: 0px;
+        justify-content: center;
     }
 
     #container9Right{
