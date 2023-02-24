@@ -280,12 +280,11 @@
         max-width: 350px;
     }
 
-    #secLayerLeft,
-    #whySecContent {
-        font-size: 17px;
+    #secLayerLeft{
         padding-right: 1px;
         max-width: 400px;
     }
+
     #secLayerMiddle,
     #container9Middle{
         display: none;
@@ -323,6 +322,10 @@
 
     #contanier9Left{
         margin-right: 40px;
+    }
+
+    #whySecContent {
+        font-size: 17px;
     }
 }
 
