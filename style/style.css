@@ -220,12 +220,16 @@
 
 #contanier9Left{
     padding-right: 40px;
+    justify-content: flex-start;
 }
 
 #container9Middle{
     border-left:2px solid var(--brandGrey);
     height: 200px;
-    flex-grow: 3;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    flex-grow: ;
 }
 
 @media screen and (max-width:1400px){
