@@ -359,13 +359,10 @@
         display: none;
     }
 
-    #container6{
-        padding-top: 20px;
-        padding-bottom: 20px;
-    }
-
     #whyTitle{
         size: 35px;
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
 
     #container7{
