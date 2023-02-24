@@ -206,8 +206,9 @@
     color: dimgray;
     font-size: 20px;
     text-align: right;
-    margin-top: 70px;
+    margin-top: 50px;
     margin-bottom: 20px;
+    padding-top: 50px;
     padding-bottom: 20px;
     padding-right: 50px;
     line-break: 1.4;
