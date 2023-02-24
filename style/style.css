@@ -375,8 +375,12 @@
         padding-top:20px ;
         margin-top: 10px;
         font-size: 13px;}
+
+    #container9{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
         
-  
 
 
   }
@@ -413,7 +417,6 @@
         max-width: 170px;
         max-height: 250px;
     }
-
 
   }
 
