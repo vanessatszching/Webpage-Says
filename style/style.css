@@ -311,7 +311,13 @@
     font-family: 'Lora', serif;
     font-size: 24px;
     color: var(--brandGrey);
+    padding-bottom: 0px;
 
+}
+
+#articleLink{
+    font-size: 18px;
+    color: var(--brandColor);
 }
 
 #container11Left,
