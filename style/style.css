@@ -290,6 +290,12 @@
     flex-direction: column;
 }
 
+#container11,
+#container12,
+#container13 {
+    display: flex;
+}
+
 @media screen and (max-width:1400px){
     #secLayerMiddle{
         margin-left: 20px;
