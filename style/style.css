@@ -225,10 +225,7 @@
 #container9Middle{
     border-left:2px solid var(--brandGrey);
     height: 200px;
-    margin-top: 50px;
-    padding-left: 20px;
-    padding-right: 20px;
-    flex-grow: 2;
+    flex-grow: 3;
 }
 
 @media screen and (max-width:1400px){
