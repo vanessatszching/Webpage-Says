@@ -250,7 +250,10 @@
 #sharingTitle{
     font-family: var(--brandFontFamily);
     color: dimgray;
-    font-size: 60px;
+    font-size: 56px;
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-bottom: 40px;
 
 }
 
