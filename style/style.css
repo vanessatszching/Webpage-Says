@@ -386,6 +386,12 @@
     #container9Right{
         margin-left: 10px;
     }
+
+    #container9Left{
+        margin-right:20px;
+        padding-right: 20px;
+
+    }
         
 
 
