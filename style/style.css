@@ -316,8 +316,15 @@
 }
 
 #articleLink{
-    font-size: 18px;
+    font-size: 14px;
+}
+
+a{
     color: var(--brandColor);
+}
+
+a:hover{
+    color: #82b9d1;
 }
 
 #container11Left,
