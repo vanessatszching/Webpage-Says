@@ -288,13 +288,13 @@
 #containerBig{
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
 }
 
 #container11,
 #container12,
 #container13 {
     display: flex;
+    justify-content: space-around;
 }
 
 #articlePic1,
