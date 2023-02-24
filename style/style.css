@@ -288,7 +288,7 @@
 #containerBig{
     display: flex;
     flex-direction: column;
-    justify-content: space-arounds;
+    justify-content: space-around;
 }
 
 #container11,
