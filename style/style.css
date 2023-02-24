@@ -285,7 +285,8 @@
         padding-right: 1px;
         max-width: 400px;
     }
-    #secLayerMiddle{
+    #secLayerMiddle,
+    #container9Middle{
         display: none;
     }
     #secLayerH2{
