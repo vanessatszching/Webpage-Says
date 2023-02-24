@@ -264,9 +264,10 @@
 
 #container10Right{
     padding-left: 20px;
-    padding-top: 80px;
+    padding-top: 50px;
     padding-bottom: 40px;
 }
+
 
 #horiLine{
     border: 1px solid;
@@ -277,6 +278,7 @@
 
 #word1{
     padding-bottom: 5px;
+    margin-bottom: 0px;
 }
 
 #word2{
