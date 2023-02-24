@@ -240,8 +240,7 @@
 
 #container9Right{
     display: flex;
-    margin-left: 40px;
-    margin-right: 20px;
+    margin-left: 60px;
 }
 
 @media screen and (max-width:1400px){
