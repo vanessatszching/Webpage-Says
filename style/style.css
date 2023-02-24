@@ -381,7 +381,7 @@
     #container9{
         margin-left: 10px;
         margin-right: 2px;
-        justify-content: center;
+        justify-content: space-evenly;
     }
 
     #container9Right{
