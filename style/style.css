@@ -247,6 +247,10 @@
     display: flex;
 }
 
+#container10Left{
+    max-width: 350px;
+}
+
 #sharingTitle{
     font-family: var(--brandFontFamily);
     color: dimgray;
@@ -254,7 +258,6 @@
     padding-left: 20px;
     padding-top: 50px;
     padding-bottom: 40px;
-    max-width: 400px;
 
 }
 
@@ -267,12 +270,14 @@
 #horiLine{
     border: 1px solid;
     color: var(--brandColor);
-    padding-top: 5px;
-    padding-bottom: 5px;
 }
 
 #word1{
-    padding-bottom: 0px;
+    padding-bottom: 5px;
+}
+
+#word2{
+    padding-top: 5px;
 }
 
 
