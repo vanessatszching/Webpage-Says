@@ -222,8 +222,8 @@
     border-left:2px solid var(--brandGrey);
     height: 200px;
     margin-top: 50px;
-    padding-left: 20;
-    padding-right: 20;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 @media screen and (max-width:1400px){
