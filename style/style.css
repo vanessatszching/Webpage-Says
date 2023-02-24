@@ -187,7 +187,9 @@
 
 }
 
-#container7Left{
+#container7Left,
+#container9
+{
     display: flex;
 }
 
