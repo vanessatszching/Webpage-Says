@@ -254,18 +254,25 @@
     padding-left: 20px;
     padding-top: 50px;
     padding-bottom: 40px;
+    max-width: 400px;
 
 }
 
 #container10Right{
     padding-left: 20px;
-    padding-top: 50px;
+    padding-top: 80px;
     padding-bottom: 40px;
 }
 
 #horiLine{
     border: 1px solid;
     color: var(--brandColor);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#word1{
+    padding-bottom: 0px;
 }
 
 
