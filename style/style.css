@@ -257,6 +257,17 @@
 
 }
 
+#container10Right{
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+#horiLine{
+    border: 1px solid;
+    color: var(--brandColor);
+}
+
 
 @media screen and (max-width:1400px){
     #secLayerMiddle{
