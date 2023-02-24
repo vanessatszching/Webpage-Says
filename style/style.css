@@ -288,6 +288,7 @@
 #containerBig{
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 #container11,
