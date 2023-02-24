@@ -280,7 +280,8 @@
         max-width: 350px;
     }
 
-    #secLayerLeft{
+    #secLayerLeft,
+    #whySecContent {
         font-size: 17px;
         padding-right: 1px;
         max-width: 400px;
