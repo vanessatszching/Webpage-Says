@@ -1,5 +1,6 @@
 :root{
     --brandColor:#ff5112;
+    --brandGrey:dimgray;
     --brandFontFamily:'Playfair Display', serif;
 }
 
@@ -218,8 +219,11 @@
 }
 
 #container9Middle{
-    padding-left: 20px;
-    padding-right: 20px;
+    border-left:2px solid var(--brandGrey);
+    height: 200px;
+    margin-top: 50px;
+    padding-left: 20;
+    padding-right: 20;
 }
 
 @media screen and (max-width:1400px){
