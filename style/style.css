@@ -378,7 +378,11 @@
 
     #container9{
         margin-left: 10px;
-        margin-right: 10px;
+        margin-right: 2px;
+    }
+
+    #container9Right{
+        margin-left: 10px;
     }
         
 
