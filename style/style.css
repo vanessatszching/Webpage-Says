@@ -588,6 +588,18 @@ a:hover{
         max-height: 290px;
     }
 
+    #container11Left,
+    #container12Left,
+    #container13Left{
+        padding-right: 10px;
+    }
+
+    #container11Right,
+    #container12Right,
+    #container13Right{
+        padding-left: 10px;
+    }
+
 
   }
 
