@@ -573,6 +573,21 @@ a:hover{
         max-width: 100px;
     }
 
+    #sharingTitle{
+        font-size: 48px;
+    }
+
+    #container10Left{
+        margin-left: 20px;
+    }
+
+    #articlePic1,
+    #articlePic2,
+    #articlePic3{
+        max-width: 190px;
+        max-height: 290px;
+    }
+
 
   }
 
