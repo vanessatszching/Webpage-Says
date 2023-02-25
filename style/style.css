@@ -343,7 +343,7 @@ a:hover{
     padding-left: 40px;
 }
 
-@media screen and (max-width:1400px){
+@media screen and (max-width:1399px){
     #secLayerMiddle{
         margin-left: 20px;
         margin-right: 20px;
