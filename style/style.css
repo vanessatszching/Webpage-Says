@@ -647,4 +647,8 @@ a:hover{
     #container9Right{
         margin-right: 10px;
     }
+
+    #horiLine{
+        width: 240px;
+    }
   }
