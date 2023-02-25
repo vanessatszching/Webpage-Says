@@ -256,7 +256,7 @@
 }
 
 #sharingTitle,
-#meTitle{
+{
     font-family: var(--brandFontFamily);
     color: dimgray;
     font-size: 56px;
@@ -344,6 +344,16 @@ a:hover{
 #container12Right,
 #container13Right{
     padding-left: 40px;
+}
+
+#meTitle{
+        font-family: var(--brandFontFamily);
+        color: var(--brandColor);
+        size: 60px;
+        padding-left: 20px;
+        padding-top: 50px;
+        padding-bottom: 40px;
+    
 }
 
 @media screen and (max-width:1399px){
