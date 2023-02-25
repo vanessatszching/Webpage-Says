@@ -600,6 +600,14 @@ a:hover{
         padding-left: 10px;
     }
 
+    #article{
+        font-size: 15px;
+    }
+
+    #articleLink{
+        font-size: 10px;
+    }
+
 
   }
 
