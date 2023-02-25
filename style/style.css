@@ -442,6 +442,10 @@ a:hover{
     #horiLine{
         width: 300px;
     }
+
+    #container10Des{
+        padding-left: 0px;
+    }
 }
 
 
