@@ -365,7 +365,8 @@ a:hover{
 }
 
 .displayphotoMe{
-    
+    max-width: 400px;
+    height: auto;
 }
 
 @media screen and (max-width:1399px){
