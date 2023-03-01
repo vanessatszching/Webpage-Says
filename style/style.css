@@ -360,6 +360,14 @@ a:hover{
     
 }
 
+#containerBig2{
+    max-width: 1400px;
+}
+
+.displayphotoMe{
+    
+}
+
 @media screen and (max-width:1399px){
     #secLayerMiddle{
         margin-left: 20px;
