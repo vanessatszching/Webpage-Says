@@ -388,6 +388,7 @@ a:hover{
     font-size: 15px;
     font-family: var(--brandFontFamily);
     color: var(--brandColor);
+    padding-right: 10px;
 }
 
 #container16Right{
