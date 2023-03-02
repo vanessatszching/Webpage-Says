@@ -372,14 +372,14 @@ a:hover{
 
 #container16Left{
     margin-top: 100px;
-    padding-right: 30px;
+    padding-right: 40px;
     text-align: right;
 
 
 }
 
 #meContentP{
-    font-size: 43px;
+    font-size: 25px;
     font-family: var(--brandFontFamily);
     color: var(--brandGrey);
 }
@@ -388,6 +388,10 @@ a:hover{
     font-size: 15px;
     font-family: var(--brandFontFamily);
     color: var(--brandColor);
+}
+
+#container16Right{
+    padding-right: 50px;
 }
 
 @media screen and (max-width:1399px){
