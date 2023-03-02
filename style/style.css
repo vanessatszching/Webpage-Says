@@ -522,6 +522,8 @@ a:hover{
     #containerBig2{
         max-width: 920px;
         display: block;
+        margin-left: 20px;
+        margin-right: 20px;
     }
 }
 
