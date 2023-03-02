@@ -468,6 +468,12 @@ a:hover{
         max-height: 300px;
     }
 
+    #displayphoto2{
+        max-width: 350px;
+        max-height: 450px;
+        padding-right: 10px;
+    }
+
     #container9{
         margin-top: 70px;
     }
