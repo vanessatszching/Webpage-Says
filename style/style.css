@@ -371,20 +371,21 @@ a:hover{
 }
 
 #container16Left{
-    margin-top: 30px;
+    margin-top: 100px;
+    padding-right: 30px;
     text-align: right;
 
 
 }
 
 #meContentP{
-    font-size: 40px;
+    font-size: 43px;
     font-family: var(--brandFontFamily);
     color: var(--brandGrey);
 }
 
 #meContentE{
-    font-size: 20px;
+    font-size: 15px;
     font-family: var(--brandFontFamily);
     color: var(--brandColor);
 }
