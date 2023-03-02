@@ -366,6 +366,10 @@ a:hover{
     
 }
 
+#meContent{
+    font-size: 20px;
+}
+
 #containerBig2{
     max-width: 1400px;
 }
