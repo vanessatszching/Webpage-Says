@@ -602,14 +602,21 @@ a:hover{
         flex-wrap: wrap;
     }
 
+    #displayphoto2{
+        padding-left: auto;
+        padding-right: auto;
+    }
+
     #container15Left{
-        justify-content: center;
+        align-items: center;
     }
 
     #container15Right{
         margin-top: 30px;
         margin-right: 20px;
     }
+
+
 
   }
   
