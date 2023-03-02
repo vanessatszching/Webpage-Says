@@ -761,4 +761,12 @@ a:hover{
     #horiLine{
         width: 240px;
     }
+
+    #meContentP{
+        font-size: 15px;
+    }
+
+    #meContentE{
+        font-size: 12px;
+    }
   }
