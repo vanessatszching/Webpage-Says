@@ -370,6 +370,25 @@ a:hover{
     max-width: 1400px;
 }
 
+#container16Left{
+    margin-top: 30px;
+    text-align: right;
+
+
+}
+
+#meContentP{
+    font-size: 40px;
+    font-family: var(--brandFontFamily);
+    color: var(--brandGrey);
+}
+
+#meContentE{
+    font-size: 20px;
+    font-family: var(--brandFontFamily);
+    color: var(--brandColor);
+}
+
 @media screen and (max-width:1399px){
     #secLayerMiddle{
         margin-left: 20px;
