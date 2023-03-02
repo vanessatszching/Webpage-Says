@@ -602,6 +602,15 @@ a:hover{
         flex-wrap: wrap;
     }
 
+    #container15Left{
+        justify-content: center;
+    }
+
+    #container15Right{
+        margin-top: 30px;
+        margin-right: 20px;
+    }
+
   }
   
   @media screen and (max-width: 575px) {
